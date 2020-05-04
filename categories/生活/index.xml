@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生活 on 墨迹</title>
-    <link>http://example.org/categories/%E7%94%9F%E6%B4%BB/</link>
+    <link>https://abuqi.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on 墨迹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 25 Mar 2020 10:30:32 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abuqi.github.io/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>这是又一个开始...</title>
-      <link>http://example.org/hugo-building/</link>
+      <link>https://abuqi.github.io/hugo-building/</link>
       <pubDate>Wed, 25 Mar 2020 10:30:32 +0800</pubDate>
       
-      <guid>http://example.org/hugo-building/</guid>
+      <guid>https://abuqi.github.io/hugo-building/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;一直想做一个blog记录, 来记录经历过的点点滴滴. 现在来完成这个小想法.  想做, 就去做.  千万别等.&lt;/p&gt;
 &lt;p&gt;[Hugo]^(一个开源的静态网站生成工具)&lt;/p&gt;</description>

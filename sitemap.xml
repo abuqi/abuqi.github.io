@@ -2,11 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/categories/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/tags/hugo/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/tags/%E6%8A%80%E6%9C%AF%E4%BB%A5%E5%A4%96/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/categories/%E7%94%9F%E6%B4%BB/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/hugo-building/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://abuqi.github.io/categories/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://abuqi.github.io/tags/hugo/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://abuqi.github.io/posts/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://abuqi.github.io/tags/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://abuqi.github.io/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://abuqi.github.io/tags/%E6%8A%80%E6%9C%AF%E4%BB%A5%E5%A4%96/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://abuqi.github.io/categories/%E7%94%9F%E6%B4%BB/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://abuqi.github.io/hugo-building/</loc><lastmod>2020-03-25T10:30:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
