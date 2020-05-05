@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aviorx on 墨迹</title>
-    <link>https://abuqi.github.io/tags/aviorx/</link>
-    <description>Recent content in aviorx on 墨迹</description>
+    <title>知识库 on 墨迹</title>
+    <link>https://abuqi.github.io/categories/%E7%9F%A5%E8%AF%86%E5%BA%93/</link>
+    <description>Recent content in 知识库 on 墨迹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 05 May 2020 15:53:39 +0800</lastBuildDate>
     
-	<atom:link href="https://abuqi.github.io/tags/aviorx/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abuqi.github.io/categories/%E7%9F%A5%E8%AF%86%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://abuqi.github.io/docker-tip/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;快速删除docker镜像，容器等。&lt;/p&gt;
-&lt;p&gt;[AviorX]^(安全可靠的企业应用)&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Aviorx 构建</title>
-      <link>https://abuqi.github.io/aviorx-building/</link>
-      <pubDate>Mon, 04 May 2020 22:46:20 +0800</pubDate>
-      
-      <guid>https://abuqi.github.io/aviorx-building/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;p&gt;基于docker-compose构建Aviorx服务站点.&lt;/p&gt;
 &lt;p&gt;[AviorX]^(安全可靠的企业应用)&lt;/p&gt;</description>
     </item>
     
