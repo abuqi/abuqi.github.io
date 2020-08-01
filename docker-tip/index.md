@@ -35,9 +35,10 @@ docker cp container:/opt/file.txt /opt/local/
 docker cp /opt/local/file.txt container:/opt/
 ```
 
-## 进入容器
+## 进入容器 .
 ```
 docker exec -it xxx bin\sh
 ```
 
 转载地址: [https://colobu.com/2018/05/15/Stop-and-remove-all-docker-containers-and-images/](https://colobu.com/2018/05/15/Stop-and-remove-all-docker-containers-and-images/)
+
